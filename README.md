@@ -47,10 +47,10 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 
 ### 🌆 Tarde (Segunda e Terça)
 * | Gabriel Carvalho | Gustavo | Nicolas | Felipe | Kauan | Victor |  <!-- Nosso grupo>
-* | Gustavo Jesus | Igor Batista | João Teles | Julio Ilidio | Lana Reis | Larissa Silva |
-* | Leandro Xavier | Lorenzo Carmo | Luis Gentil | Luiz Silva | Miguel Alves | Milena Oliveira |
-* | Nicolly Gonçalves | Paulo Nascimento | Richard Pimenta | Thalya Alcantara | Thierry Duarte | Yuri Santana |
-
+* | Leandro Xavier |Rebeca Del Negro| Ellis Oliveira | Daniel Souza | Manuela Andrade |<!--nosso grupo-->
+<!---->
+<!---->
+* | Leonardo Sales |
 ---
 
 ## 📂 Projetos por Tema
@@ -73,7 +73,12 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!-- vazio -->
 <!-- vazio -->
 <!-- vazio -->
-<!-- * **✂️ Barbearia * ** Gabriel Carvalho, Nicolas, Kauan, Felipe, Gustavo, Victor -->
+* **✂️ Barbearia * ** Gabriel Carvalho, Nicolas, Kauan, Felipe, Gustavo, Victor -->
+* ** 🍔 Hamburgeria:** Leandro C.| Rebeca N.| Daniel S.| Ellis O.| Manuella A.
+<!-- vazio -->
+<!-- vazio -->
+* ** ✂ Barbearia:** Leonardo Sales
+
 <!-- * **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel. espaço do Felipe mendes e do Igor feitas -->
 <!-- * **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana. espaço do diogo -->
 <!-- * **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry. espaço da Bea -->
